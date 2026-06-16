@@ -1,0 +1,5 @@
+baseURL = "https://rongrong.github.io/"
+languageCode = "zh-cn"
+title = "李融融的技术博客"
+
+theme = "PaperMod"
